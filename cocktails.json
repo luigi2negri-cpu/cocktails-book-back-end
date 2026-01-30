@@ -1,0 +1,3318 @@
+[
+  {
+    "slug": "20th-century",
+    "nome": "20th Century",
+    "autore": "C.A. Tuck",
+    "luogo": "Café Royal, London",
+    "anno": "1937",
+    "ingredienti": [
+      "45 ml gin",
+      "15 ml lemon juice",
+      "15 ml Cocchi Americano",
+      "15 ml white crème de cacao"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "adonis",
+    "nome": "Adonis",
+    "autore": "Joseph F. McKone",
+    "luogo": "Hoffman House, NYC",
+    "anno": "1884",
+    "ingredienti": [
+      "45 ml amontillado sherry",
+      "45 ml sweet vermouth",
+      "2 dashes orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "alabazam-(original)",
+    "nome": "Alabazam (original)",
+    "autore": "Leo Engel",
+    "luogo": "American and Other Drinks",
+    "anno": "1878",
+    "ingredienti": [
+      "60 ml cognac",
+      "30 ml lemon juice",
+      "15 ml Cointreau",
+      "20 ml simple syrup (1:1)",
+      "1 barspoon Angostura bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "alabazam-(widely-known)",
+    "nome": "Alabazam (widely known)",
+    "autore": "William Schmidt",
+    "luogo": "The Flowing Bowl",
+    "anno": "1892",
+    "ingredienti": [
+      "60 ml cognac",
+      "30 ml lemon juice",
+      "30 ml Cointreau",
+      "20 ml simple syrup (1:1)",
+      "2 dashes orange bitters",
+      "60 ml club soda"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "orange slice",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "airmail",
+    "nome": "Airmail",
+    "autore": "Bacardi and Its Many Uses (pamphlet)",
+    "luogo": "",
+    "anno": "1930s",
+    "ingredienti": [
+      "30 ml white rum",
+      "15 ml lime juice",
+      "15 ml honey syrup (2:1)",
+      "60 ml Champagne (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain then top",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lime wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "alaska",
+    "nome": "Alaska",
+    "autore": "Jacques Straub",
+    "luogo": "Drinks",
+    "anno": "1914",
+    "ingredienti": [
+      "45 ml Old Tom gin",
+      "20 ml Yellow Chartreuse",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon or orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "alexander",
+    "nome": "Alexander",
+    "autore": "Troy Alexander",
+    "luogo": "Rector's, NYC",
+    "anno": "c.1904-1913",
+    "ingredienti": [
+      "30 ml gin or brandy",
+      "30 ml white crème de cacao",
+      "30 ml heavy cream"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "amaretto-sour",
+    "nome": "Amaretto Sour",
+    "autore": "Promotional cocktail for Amaretto di Saronno (update by Jeffrey Morgenthaler)",
+    "luogo": "Clyde Common, Portland",
+    "anno": "1974 / 2012",
+    "ingredienti": [
+      "45 ml amaretto",
+      "20 ml overproof bourbon",
+      "30 ml lemon juice",
+      "7 ml simple syrup (1:1)",
+      "15 ml egg white"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon twist (expressed and discarded); picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "americano",
+    "nome": "Americano",
+    "autore": "Gaspare Campari",
+    "luogo": "Caffè Campari, Milan",
+    "anno": "1880s",
+    "ingredienti": [
+      "45 ml sweet vermouth",
+      "45 ml Campari",
+      "120 ml club soda"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "orange wedge",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "american-trilogy",
+    "nome": "American Trilogy",
+    "autore": "Richard Boccato & Michael McIlroy",
+    "luogo": "Little Branch, NYC",
+    "anno": "2007",
+    "ingredienti": [
+      "35 ml rye",
+      "35 ml apple brandy",
+      "7 ml simple syrup (1:1)",
+      "2 dashes orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange & lemon twists",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "aperol-spritz",
+    "nome": "Aperol Spritz",
+    "autore": "Luigi & Silvio Barbieri (creators of Aperol)",
+    "luogo": "Padua",
+    "anno": "1950s",
+    "ingredienti": [
+      "90 ml prosecco",
+      "60 ml Aperol",
+      "30 ml club soda"
+    ],
+    "metodo": "build",
+    "bicchiere": "wine glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange slice",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "archangel",
+    "nome": "Archangel",
+    "autore": "Michael McIlroy & Richard Boccato",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2006",
+    "ingredienti": [
+      "67 ml gin",
+      "20 ml Aperol",
+      "2 slices bruised cucumber"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "army-navy",
+    "nome": "Army & Navy",
+    "autore": "David A. Embury",
+    "luogo": "Fine Art of Mixing Drinks",
+    "anno": "1948",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lemon juice",
+      "20 ml orgeat",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "arsenic-old-lace",
+    "nome": "Arsenic & Old Lace",
+    "autore": "Crosby Gaige",
+    "luogo": "Cocktail Guide & Ladies' Companion",
+    "anno": "1941",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml dry vermouth",
+      "7 ml crème de violette",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "atholl-brose",
+    "nome": "Atholl Brose",
+    "autore": "John Stewart (1st Earl of Atholl)",
+    "luogo": "Scottish Highlands",
+    "anno": "1475",
+    "ingredienti": [
+      "60 ml scotch",
+      "45 ml oat milk",
+      "45 ml honey syrup (2:1)",
+      "30 ml heavy cream (optional)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Legendary origin story with spiked well; \"Brose\" = uncooked grain porridge",
+    "image": ""
+  },
+  {
+    "slug": "aviation",
+    "nome": "Aviation",
+    "autore": "Hugo Ensslin",
+    "luogo": "Recipes for Mixed Drinks",
+    "anno": "1916",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lemon juice",
+      "7 ml maraschino liqueur",
+      "7 ml crème de violette"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bamboo",
+    "nome": "Bamboo",
+    "autore": "Louis Eppinger",
+    "luogo": "San Francisco or Portland (but not Yokohama)",
+    "anno": "1870s",
+    "ingredienti": [
+      "45 ml fino sherry",
+      "45 ml dry vermouth",
+      "1 dash orange bitters",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bees-knees",
+    "nome": "Bee's Knees",
+    "autore": "Frank Meier",
+    "luogo": "Hôtel Ritz, Paris",
+    "anno": "1929",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lemon juice",
+      "20 ml honey syrup (2:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "between-the-sheets",
+    "nome": "Between the Sheets",
+    "autore": "Harry MacElhone",
+    "luogo": "Harry's New York Bar, Paris",
+    "anno": "1920s (disputed)",
+    "ingredienti": [
+      "20 ml white rum",
+      "20 ml cognac",
+      "30 ml Cointreau",
+      "15 ml lemon juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bicycle-thief",
+    "nome": "Bicycle Thief",
+    "autore": "Zachary Gelnaw-Rubin & Abraham Hawkins",
+    "luogo": "Dutch Kills, NYC",
+    "anno": "2012",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml Campari",
+      "45 ml grapefruit juice",
+      "15 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "60 ml soda water (to top",
+      "do not shake)"
+    ],
+    "metodo": "whip shake / dump / top",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "orange slice",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bijou",
+    "nome": "Bijou",
+    "autore": "Harry Johnson",
+    "luogo": "Bartenders' Manual",
+    "anno": "1900",
+    "ingredienti": [
+      "45 ml gin",
+      "30 ml sweet vermouth",
+      "15 ml Green Chartreuse",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bitter-giuseppe",
+    "nome": "Bitter Giuseppe",
+    "autore": "Steven Cole",
+    "luogo": "The Violet Hour, Chicago",
+    "anno": "2009",
+    "ingredienti": [
+      "60 ml Cynar",
+      "30 ml sweet vermouth",
+      "7 ml lemon juice",
+      "6 dashes orange bitters",
+      "pinch of salt (optional)",
+      "1 lemon twist (optional)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon twist (optional)",
+    "note": "Optional salt and lemon twist derived from later riff",
+    "image": ""
+  },
+  {
+    "slug": "black-russian",
+    "nome": "Black Russian",
+    "autore": "Gustave Tops",
+    "luogo": "Hotel Metropole, Brussels",
+    "anno": "1949",
+    "ingredienti": [
+      "60 ml vodka",
+      "30 ml coffee liqueur"
+    ],
+    "metodo": "build",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "",
+    "note": "Predecessor to the White Russian",
+    "image": ""
+  },
+  {
+    "slug": "blood-sand",
+    "nome": "Blood & Sand",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "20 ml scotch",
+      "20 ml orange juice",
+      "20 ml cherry Heering",
+      "20 ml sweet vermouth"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Historically famous but often considered weak",
+    "image": ""
+  },
+  {
+    "slug": "bloody-mary",
+    "nome": "Bloody Mary",
+    "autore": "George Jessel and/or Fernand \"The Frog\" Petiot",
+    "luogo": "Paris / NYC / Palm Beach",
+    "anno": "1920s",
+    "ingredienti": [
+      "60 ml vodka",
+      "120 ml tomato juice",
+      "15 ml lemon juice",
+      "pinch of salt",
+      "pinch of black pepper",
+      "3 dashes Worcestershire sauce",
+      "3 dashes Tabasco sauce"
+    ],
+    "metodo": "roll / fine strain",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "celery stalk",
+    "note": "One of the ten Master Recipes",
+    "image": ""
+  },
+  {
+    "slug": "bobby-burns",
+    "nome": "Bobby Burns",
+    "autore": "Bishop & Babcock Co.",
+    "luogo": "Fancy Drinks",
+    "anno": "1900",
+    "ingredienti": [
+      "60 ml blended scotch whisky",
+      "20 ml sweet vermouth",
+      "7 ml Bénédictine"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Originally Baby Burns",
+    "image": ""
+  },
+  {
+    "slug": "bosom-caresser",
+    "nome": "Bosom Caresser",
+    "autore": "Possibly Leo Engel",
+    "luogo": "American and Other Drinks",
+    "anno": "1880",
+    "ingredienti": [
+      "60 ml cognac",
+      "15 ml Cointreau",
+      "15 ml rainwater Madeira",
+      "7 ml grenadine",
+      "1 egg yolk"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "Complex evolution story; author claims this version",
+    "image": ""
+  },
+  {
+    "slug": "boulevardier",
+    "nome": "Boulevardier",
+    "autore": "Erskine Gwynne",
+    "luogo": "Harry's New York Bar, Paris",
+    "anno": "c.1927",
+    "ingredienti": [
+      "45 ml bourbon or rye whiskey",
+      "20 ml Campari",
+      "20 ml sweet vermouth"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "bradford",
+    "nome": "Bradford",
+    "autore": "Harry Johnson",
+    "luogo": "Bartenders' Manual",
+    "anno": "1900",
+    "ingredienti": [
+      "45 ml gin (preferably Old Tom)",
+      "45 ml dry vermouth",
+      "3-4 dashes orange bitters",
+      "2 lemon twists (in the shaker)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked olive",
+    "note": "Oldest known recipe; modern term used for any shaken Martini variation",
+    "image": ""
+  },
+  {
+    "slug": "bramble",
+    "nome": "Bramble",
+    "autore": "Dick Bradsell",
+    "luogo": "Fred's Club, London",
+    "anno": "1989",
+    "ingredienti": [
+      "60 ml gin",
+      "30 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "15 ml crème de mûre (sink)"
+    ],
+    "metodo": "build",
+    "bicchiere": "pebble ice",
+    "ghiaccio": "",
+    "garnish": "lemon wedge & blackberry; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "braulio-shakerato",
+    "nome": "Braulio Shakerato",
+    "autore": "Leah George Brown",
+    "luogo": "Hart's, NYC",
+    "anno": "c.2020",
+    "ingredienti": [
+      "60 ml Braulio"
+    ],
+    "metodo": "reverse dry shake / dump",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Extended note on Shakerato technique and Braulio excellence",
+    "image": ""
+  },
+  {
+    "slug": "brooklyn",
+    "nome": "Brooklyn",
+    "autore": "Jacob Abraham Grohusko",
+    "luogo": "Jack's Manual",
+    "anno": "1908",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "15 ml dry vermouth",
+      "7 ml maraschino liqueur",
+      "7 ml Amer Picon (see note)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Note on Amer Picon unavailability and substitutes",
+    "image": ""
+  },
+  {
+    "slug": "brooklynite",
+    "nome": "Brooklynite",
+    "autore": "Eddie Whittmer",
+    "luogo": "The Stork Club Bar Book",
+    "anno": "1946",
+    "ingredienti": [
+      "60 ml Jamaican rum",
+      "20 ml lime juice",
+      "20 ml honey syrup (2:1)",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lime wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "brown-derby-de-rigueur",
+    "nome": "Brown Derby / De Rigueur",
+    "autore": "Norman Hume Anthony (\"Judge Jr.\")",
+    "luogo": "Here's How",
+    "anno": "1927",
+    "ingredienti": [
+      "60 ml bourbon",
+      "20 ml grapefruit juice",
+      "15 ml honey syrup (2:1)",
+      "7 ml lemon juice (optional)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "grapefruit twist",
+    "note": "Example of \"cocktail drift\"; author adds lemon for balance",
+    "image": ""
+  },
+  {
+    "slug": "bullshot",
+    "nome": "Bullshot",
+    "autore": "John Hurley & Lester Gruber",
+    "luogo": "Caucus Club, Detroit",
+    "anno": "1955",
+    "ingredienti": [
+      "60 ml vodka",
+      "120 ml beef broth",
+      "15 ml lemon juice",
+      "3 dashes Worcestershire sauce",
+      "3 dashes Tabasco sauce"
+    ],
+    "metodo": "roll / fine strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange wedge",
+    "note": "Bloody Mary riff with compelling origin story",
+    "image": ""
+  },
+  {
+    "slug": "caipirinha",
+    "nome": "Caipirinha",
+    "autore": "Traditional",
+    "luogo": "Brazil",
+    "anno": "c.1850s / modern c.1950s",
+    "ingredienti": [
+      "60 ml cachaça",
+      "2 heaping barspoons demerara sugar",
+      "3 lime wedges"
+    ],
+    "metodo": "muddle sugar and lime / add booze / shake with ice / dump (do not strain)",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lime wedge",
+    "note": "Don't skip muddling; \"country bumpkin\"",
+    "image": ""
+  },
+  {
+    "slug": "cardinale",
+    "nome": "Cardinale",
+    "autore": "Amedeo Gandiglio",
+    "luogo": "Cocktails Portfolio",
+    "anno": "1947",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml dry vermouth",
+      "30 ml Campari"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange slice",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "champselysees",
+    "nome": "Champs-Élysées",
+    "autore": "Nina Toye & A.H. Adair",
+    "luogo": "Drinks—Long & Short",
+    "anno": "1925",
+    "ingredienti": [
+      "45 ml cognac",
+      "20 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "15 ml Green Chartreuse",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "chartreuse-swizzle",
+    "nome": "Chartreuse Swizzle",
+    "autore": "Marcovaldo Dionysos",
+    "luogo": "Harry Denton's Starlight Room, San Francisco",
+    "anno": "2003",
+    "ingredienti": [
+      "45 ml Green Chartreuse",
+      "30 ml pineapple juice",
+      "20 ml lime juice",
+      "15 ml Velvet Falernum"
+    ],
+    "metodo": "swizzle",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint & fresh grated nutmeg; straw",
+    "note": "Can skip swizzle for whip shake and dump",
+    "image": ""
+  },
+  {
+    "slug": "chet-baker",
+    "nome": "Chet Baker",
+    "autore": "Sam Ross",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml aged rum",
+      "7 ml sweet vermouth",
+      "1 barspoon honey syrup (2:1)",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "chrysanthemum",
+    "nome": "Chrysanthemum",
+    "autore": "Hugo R. Ensslin",
+    "luogo": "Recipes for Mixed Drinks",
+    "anno": "1916",
+    "ingredienti": [
+      "75 ml dry vermouth",
+      "15 ml Bénédictine",
+      "3 dashes absinthe"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "clover-club",
+    "nome": "Clover Club",
+    "autore": "Bellevue-Stratford Hotel",
+    "luogo": "Philadelphia",
+    "anno": "c.1890s",
+    "ingredienti": [
+      "45 ml gin",
+      "15 ml dry vermouth",
+      "15 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "3 raspberries",
+      "15 ml egg white"
+    ],
+    "metodo": "muddle / dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "picked raspberry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "cobras-fang",
+    "nome": "Cobra's Fang",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Hollywood",
+    "anno": "c.1937",
+    "ingredienti": [
+      "75 ml Smith & Cross rum",
+      "15 ml 151-proof demerara rum",
+      "15 ml falernum",
+      "15 ml lime juice",
+      "15 ml orange juice",
+      "15 ml fassionola",
+      "1 dash absinthe",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "whip shake / dump (or blend with ~90 g ice)",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint & lime wheel; straw",
+    "note": "Traditionally blended",
+    "image": ""
+  },
+  {
+    "slug": "coffee-cocktail",
+    "nome": "Coffee Cocktail",
+    "autore": "\"Major\" Flynn",
+    "luogo": "Shakespeare Inn, NYC",
+    "anno": "c.1885",
+    "ingredienti": [
+      "60 ml ruby port",
+      "30 ml cognac",
+      "15 ml simple syrup (1:1)",
+      "1 whole egg"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Contains no coffee; resembles café au lait",
+    "image": ""
+  },
+  {
+    "slug": "corn-n-oil",
+    "nome": "Corn 'n' Oil",
+    "autore": "Traditional Bajan planter's drink",
+    "luogo": "Barbados",
+    "anno": "c.1700s",
+    "ingredienti": [
+      "30 ml aged rum",
+      "45 ml falernum",
+      "20 ml lime juice",
+      "30 ml blackstrap rum",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "whip shake first 3 / dump / top with blackstrap and bitters",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "straw",
+    "note": "Modern Joe Robinson version; note on Murray Stenson",
+    "image": ""
+  },
+  {
+    "slug": "corpse-reviver-no-2",
+    "nome": "Corpse Reviver No. 2",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "20 ml gin",
+      "20 ml Cointreau",
+      "20 ml Cocchi Americano",
+      "20 ml lemon juice",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "Most famous reviver; Cocchi replaces extinct Kina Lillet",
+    "image": ""
+  },
+  {
+    "slug": "cosmopolitan",
+    "nome": "Cosmopolitan",
+    "autore": "Toby Cecchini",
+    "luogo": "The Odeon, NYC",
+    "anno": "1988",
+    "ingredienti": [
+      "45 ml citron vodka",
+      "20 ml Cointreau",
+      "20 ml lime juice",
+      "20 ml cranberry juice cocktail"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Disputed parentage; Cecchini has strongest claim",
+    "image": ""
+  },
+  {
+    "slug": "daiquiri",
+    "nome": "Daiquiri",
+    "autore": "Jennings S. Cox Jr.",
+    "luogo": "Daiquirí, Cuba",
+    "anno": "1896",
+    "ingredienti": [
+      "60 ml white rum",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "One of the ten Master Recipes",
+    "image": ""
+  },
+  {
+    "slug": "death-flip",
+    "nome": "Death Flip",
+    "autore": "Chris Hysted-Adams",
+    "luogo": "The Black Pearl, Melbourne",
+    "anno": "2010",
+    "ingredienti": [
+      "30 ml blanco tequila",
+      "15 ml Yellow Chartreuse",
+      "15 ml Jägermeister",
+      "1 whole egg"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "diamondback-lounge",
+    "nome": "Diamondback Lounge",
+    "autore": "unknown (Lord Baltimore Hotel)",
+    "luogo": "Bottoms Up (Ted Saucier)",
+    "anno": "c.1933–1951 / 1951",
+    "ingredienti": [
+      "45 ml rye whiskey",
+      "20 ml apple brandy",
+      "20 ml Yellow Chartreuse"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "division-bell",
+    "nome": "Division Bell",
+    "autore": "Phil Ward",
+    "luogo": "Mayahuel, NYC",
+    "anno": "2009",
+    "ingredienti": [
+      "30 ml mezcal",
+      "20 ml Aperol",
+      "15 ml maraschino liqueur",
+      "20 ml lime juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "grapefruit twist (expressed and discarded)",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "dr-funk",
+    "nome": "Dr. Funk",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Palm Springs",
+    "anno": "1950s",
+    "ingredienti": [
+      "45 ml blackstrap rum",
+      "15 ml lemon juice",
+      "7 ml lime juice",
+      "15 ml grenadine",
+      "1 barspoon absinthe",
+      "30 ml club soda (to top",
+      "do not shake)"
+    ],
+    "metodo": "whip shake / dump / top",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint sprig; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "eastside",
+    "nome": "Eastside",
+    "autore": "George Delagado",
+    "luogo": "Libation, NYC",
+    "anno": "2004",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)",
+      "handful of fresh mint leaves",
+      "2 cucumber slices"
+    ],
+    "metodo": "muddle cucumber / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "cucumber slice",
+    "note": "Southside with muddled cucumber",
+    "image": ""
+  },
+  {
+    "slug": "eggnog-(batch)",
+    "nome": "Eggnog (batch)",
+    "autore": "unknown",
+    "luogo": "American Middle Colonies",
+    "anno": "c.1788",
+    "ingredienti": [
+      "12 eggs",
+      "450 g white cane sugar",
+      "3 g kosher salt",
+      "400 ml aged rum (700 ml if aging)",
+      "400 ml cognac (700 ml if aging)",
+      "200 ml amontillado sherry",
+      "800 ml heavy cream",
+      "800 ml whole milk"
+    ],
+    "metodo": "blend / whisk",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Complex batch procedure; use within 3 days unless aging",
+    "image": ""
+  },
+  {
+    "slug": "eggnog-(single-serving)",
+    "nome": "Eggnog (single serving)",
+    "autore": "unknown",
+    "luogo": "American Middle Colonies",
+    "anno": "c.1788",
+    "ingredienti": [
+      "30 ml aged rum",
+      "15 ml cognac",
+      "15 ml amontillado sherry",
+      "3 heaping barspoons white cane sugar",
+      "30 ml heavy cream",
+      "30 ml whole milk",
+      "1 whole egg",
+      "pinch of salt"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Single-serve version differs from batch",
+    "image": ""
+  },
+  {
+    "slug": "el-diablo",
+    "nome": "El Diablo",
+    "autore": "Victor Bergeron",
+    "luogo": "Trader Vic's Book of Food & Drink",
+    "anno": "1946",
+    "ingredienti": [
+      "60 ml blanco tequila",
+      "15 ml lime juice",
+      "60 ml ginger beer",
+      "15 ml crème de cassis (sink)"
+    ],
+    "metodo": "build / sink cassis",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "lime wedge; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "el-presidente",
+    "nome": "El Presidente",
+    "autore": "John B. Escalante",
+    "luogo": "Hotel Inglaterra, Havana",
+    "anno": "1915",
+    "ingredienti": [
+      "45 ml aged rum",
+      "20 ml bianco vermouth",
+      "15 ml Cointreau",
+      "1 barspoon grenadine"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "enzoni",
+    "nome": "Enzoni",
+    "autore": "Vincenzo Errico",
+    "luogo": "Match Bar, London",
+    "anno": "2001",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml Campari",
+      "20 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "5 seedless green grapes"
+    ],
+    "metodo": "muddle grapes / shake with ice / fine strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "picked green grape",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "espresso-martini",
+    "nome": "Espresso Martini",
+    "autore": "Dick Bradsell",
+    "luogo": "Soho Brasserie, London",
+    "anno": "c.1983",
+    "ingredienti": [
+      "60 ml vodka",
+      "30 ml espresso",
+      "15 ml coffee liqueur",
+      "7 ml simple syrup (1:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "3 coffee beans",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "fanciulli",
+    "nome": "Fanciulli",
+    "autore": "Albert Stevens Crockett",
+    "luogo": "Old Waldorf Bar Days",
+    "anno": "1931",
+    "ingredienti": [
+      "60 ml bourbon or rye whiskey",
+      "20 ml sweet vermouth",
+      "7 ml Fernet-Branca"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist & picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "fancy-free",
+    "nome": "Fancy Free",
+    "autore": "Crosby Gaige",
+    "luogo": "Cocktail Guide & Ladies' Companion",
+    "anno": "1941",
+    "ingredienti": [
+      "60 ml bourbon",
+      "15 ml maraschino liqueur",
+      "2 dashes Angostura bitters",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "final-ward",
+    "nome": "Final Ward",
+    "autore": "Phil Ward",
+    "luogo": "Pegu Club, NYC",
+    "anno": "2006",
+    "ingredienti": [
+      "20 ml rye whiskey",
+      "20 ml lemon juice",
+      "20 ml Green Chartreuse",
+      "20 ml maraschino liqueur"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "fish-house-punch",
+    "nome": "Fish House Punch",
+    "autore": "Colony Club",
+    "luogo": "Schuylkill, Pennsylvania",
+    "anno": "c.1790s",
+    "ingredienti": [
+      "500 ml Jamaican rum",
+      "250 ml cognac",
+      "150 ml apple brandy",
+      "100 ml crème de pêche",
+      "250 g white cane sugar",
+      "250 ml lemon juice"
+    ],
+    "metodo": "punch bowl: dissolve sugar in lemon juice / half fill with ice / add remaining ingredients / wait 30 minutes",
+    "bicchiere": "puncheira",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Legendary house punch; can use oleo-saccharum",
+    "image": ""
+  },
+  {
+    "slug": "flip-(modern)",
+    "nome": "Flip (modern)",
+    "autore": "unknown",
+    "luogo": "America",
+    "anno": "c.1870s",
+    "ingredienti": [
+      "20 ml aged rum",
+      "20 ml cognac",
+      "20 ml oloroso sherry",
+      "20 ml simple syrup (1:1)",
+      "1 whole egg"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "fresh grated nutmeg",
+    "note": "Long history from hot flips with loggerheads",
+    "image": ""
+  },
+  {
+    "slug": "fog-cutter",
+    "nome": "Fog Cutter",
+    "autore": "Victor Bergeron",
+    "luogo": "Trader Vic's Book of Food & Drink",
+    "anno": "1946",
+    "ingredienti": [
+      "30 ml rhum agricole",
+      "15 ml cognac",
+      "15 ml gin",
+      "30 ml lemon juice",
+      "15 ml Cointreau",
+      "20 ml orgeat",
+      "15 ml cream sherry (sink)"
+    ],
+    "metodo": "whip shake / dump / sink sherry",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "orange slice; orchid; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "french-75",
+    "nome": "French 75",
+    "autore": "Norman Hume Anthony (\"Judge Jr.\")",
+    "luogo": "Here's How",
+    "anno": "1927",
+    "ingredienti": [
+      "30 ml gin",
+      "15 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "60 ml Champagne (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "flute",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Named after WWI French field gun",
+    "image": ""
+  },
+  {
+    "slug": "gimlet",
+    "nome": "Gimlet",
+    "autore": "Harry MacElhone",
+    "luogo": "Harry's ABC of Mixing Cocktails",
+    "anno": "1922",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lime wedge",
+    "note": "Likely naval origin as scurvy preventative",
+    "image": ""
+  },
+  {
+    "slug": "gin-it",
+    "nome": "Gin & It",
+    "autore": "Frank Meier",
+    "luogo": "The Artistry of Mixing Drinks",
+    "anno": "1936",
+    "ingredienti": [
+      "75 ml gin",
+      "75 ml sweet vermouth",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "\"It\" = Italian vermouth",
+    "image": ""
+  },
+  {
+    "slug": "gloria",
+    "nome": "Gloria",
+    "autore": "Victor Bergeron",
+    "luogo": "Bartender's Guide",
+    "anno": "1947",
+    "ingredienti": [
+      "45 ml gin",
+      "15 ml Campari",
+      "15 ml orange liqueur",
+      "15 ml dry vermouth"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "godfather",
+    "nome": "Godfather",
+    "autore": "unknown",
+    "luogo": "",
+    "anno": "1970s",
+    "ingredienti": [
+      "60 ml scotch",
+      "15 ml amaretto"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "",
+    "note": "Popular 70s cocktail; no clear originator",
+    "image": ""
+  },
+  {
+    "slug": "gold-rush",
+    "nome": "Gold Rush",
+    "autore": "T.J. Siegal",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2000",
+    "ingredienti": [
+      "60 ml bourbon",
+      "20 ml lemon juice",
+      "20 ml honey syrup (2:1)"
+    ],
+    "metodo": "shake / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "grasshopper",
+    "nome": "Grasshopper",
+    "autore": "Harry O'Brien",
+    "luogo": "The Palace Hotel, San Francisco",
+    "anno": "c.1908",
+    "ingredienti": [
+      "30 ml crème de menthe",
+      "30 ml crème de cacao",
+      "30 ml heavy cream"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Originally layered; can use blender with ice cream",
+    "image": ""
+  },
+  {
+    "slug": "greenpoint",
+    "nome": "Greenpoint",
+    "autore": "Michael McIlroy",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "15 ml sweet vermouth",
+      "15 ml Yellow Chartreuse",
+      "1 dash Angostura bitters",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "hanky-panky",
+    "nome": "Hanky Panky",
+    "autore": "Ada Coleman",
+    "luogo": "American Bar at the Savoy Hotel, London",
+    "anno": "1918",
+    "ingredienti": [
+      "45 ml gin",
+      "45 ml sweet vermouth",
+      "2 dashes Fernet-Branca"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "Created by first female head bartender Ada Coleman",
+    "image": ""
+  },
+  {
+    "slug": "harvey-wallbanger",
+    "nome": "Harvey Wallbanger",
+    "autore": "Donato \"Duke\" Antone (attributed)",
+    "luogo": "McKesson Imports",
+    "anno": "1969",
+    "ingredienti": [
+      "45 ml vodka",
+      "120 ml orange juice",
+      "15 ml Galliano L'Autentico (float)"
+    ],
+    "metodo": "build / float",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "picked orange wheel wrapped around a cocktail cherry",
+    "note": "Iconic 70s marketing success story",
+    "image": ""
+  },
+  {
+    "slug": "highball",
+    "nome": "Highball",
+    "autore": "Lord Byron (mention in Don Juan)",
+    "luogo": "",
+    "anno": "1819",
+    "ingredienti": [
+      "60 ml scotch (or other spirit)",
+      "150 ml soda water"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice (optional)",
+    "garnish": "",
+    "note": "One of the ten Master Recipes",
+    "image": ""
+  },
+  {
+    "slug": "honeysuckle",
+    "nome": "Honeysuckle",
+    "autore": "David A. Embury",
+    "luogo": "The Fine Art of Mixing Drinks",
+    "anno": "1948",
+    "ingredienti": [
+      "60 ml rum",
+      "20 ml lime juice",
+      "20 ml honey syrup (2:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lime wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "hot-toddy",
+    "nome": "Hot Toddy",
+    "autore": "unknown",
+    "luogo": "",
+    "anno": "c.1741",
+    "ingredienti": [
+      "60 ml Irish whiskey",
+      "150 ml hot water",
+      "20 ml honey syrup (2:1)",
+      "7 ml lemon juice"
+    ],
+    "metodo": "build",
+    "bicchiere": "heat-proof mug",
+    "ghiaccio": "",
+    "garnish": "cinnamon stick; clove-studded lemon twist",
+    "note": "Complex etymology; technically becomes hot punch with lemon",
+    "image": ""
+  },
+  {
+    "slug": "infante",
+    "nome": "Infante",
+    "autore": "Giuseppe González",
+    "luogo": "Dutch Kills, NYC",
+    "anno": "2009",
+    "ingredienti": [
+      "60 ml tequila",
+      "20 ml lime juice",
+      "20 ml orgeat",
+      "2 drops orange flower or rose water (optional)"
+    ],
+    "metodo": "shake / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lime wheel & fresh grated nutmeg",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "irish-coffee",
+    "nome": "Irish Coffee",
+    "autore": "Joe Sheridan",
+    "luogo": "Foynes Airport, Ireland",
+    "anno": "c.1944",
+    "ingredienti": [
+      "45 ml Irish whiskey",
+      "120 ml hot coffee",
+      "2 brown sugar cubes",
+      "30 ml lightly whipped heavy cream (float)"
+    ],
+    "metodo": "build",
+    "bicchiere": "Irish Coffee glass",
+    "ghiaccio": "",
+    "garnish": "cream float",
+    "note": "Temperature critical; no stiff peaks; drink through cream",
+    "image": ""
+  },
+  {
+    "slug": "jack-rose",
+    "nome": "Jack Rose",
+    "autore": "Frank Haas",
+    "luogo": "Fred Eberlin's, NYC",
+    "anno": "1899",
+    "ingredienti": [
+      "60 ml applejack",
+      "15 ml lemon or lime juice",
+      "20 ml grenadine"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Undervalued and overrated; Pan American Clipper variant",
+    "image": ""
+  },
+  {
+    "slug": "japanese-cocktail",
+    "nome": "Japanese Cocktail",
+    "autore": "Jerry Thomas",
+    "luogo": "The Metropolitan Hotel, NYC",
+    "anno": "c.1860",
+    "ingredienti": [
+      "60 ml cognac",
+      "15 ml orgeat",
+      "3 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Historical context on first Japanese diplomatic mission",
+    "image": ""
+  },
+  {
+    "slug": "japanese-slipper",
+    "nome": "Japanese Slipper",
+    "autore": "Jean-Paul Bourguignon",
+    "luogo": "Mietta's, Melbourne",
+    "anno": "1984",
+    "ingredienti": [
+      "30 ml Midori",
+      "30 ml Cointreau",
+      "30 ml lemon juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "sunken cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "jasmine",
+    "nome": "Jasmine",
+    "autore": "Paul Harrington",
+    "luogo": "Townhouse Bar & Grill, California",
+    "anno": "1990s",
+    "ingredienti": [
+      "45 ml gin",
+      "20 ml lemon juice",
+      "7 ml Campari",
+      "7 ml Cointreau"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "\"Gateway drug\" for Cosmo drinkers",
+    "image": ""
+  },
+  {
+    "slug": "jungle-bird",
+    "nome": "Jungle Bird",
+    "autore": "Jeffery Ong Swee Teik",
+    "luogo": "Hilton Aviary Bar, Kuala Lumpur",
+    "anno": "c.1973",
+    "ingredienti": [
+      "45 ml blackstrap rum",
+      "45 ml pineapple juice",
+      "20 ml Campari",
+      "15 ml lime juice",
+      "15 ml simple syrup (1:1)"
+    ],
+    "metodo": "shake / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "pineapple frond or orange slice",
+    "note": "Described as \"post-tiki\"; one author recommends making this",
+    "image": ""
+  },
+  {
+    "slug": "kentucky-maid",
+    "nome": "Kentucky Maid",
+    "autore": "Sam Ross",
+    "luogo": "East Side Company Bar, NYC",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml bourbon",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)",
+      "3 slices cucumber",
+      "small handful mint"
+    ],
+    "metodo": "muddle cucumber / add remaining / shake / fine strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "cucumber slice skewered with mint sprig",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "last-word",
+    "nome": "Last Word",
+    "autore": "unknown",
+    "luogo": "Detroit Athletic Club, Detroit",
+    "anno": "c.1916",
+    "ingredienti": [
+      "20 ml gin",
+      "20 ml maraschino liqueur",
+      "20 ml Green Chartreuse",
+      "20 ml lime juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "One of the ten Master Recipes; described as \"perfect cocktail\"",
+    "image": ""
+  },
+  {
+    "slug": "left-hand",
+    "nome": "Left Hand",
+    "autore": "Sam Ross",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2006",
+    "ingredienti": [
+      "45 ml bourbon",
+      "20 ml Campari",
+      "20 ml sweet vermouth",
+      "2 dashes chocolate bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "lemon-drop",
+    "nome": "Lemon Drop",
+    "autore": "Norman Hobday",
+    "luogo": "Henry Africa's, San Francisco",
+    "anno": "1970s",
+    "ingredienti": [
+      "45 ml vodka",
+      "30 ml lemon juice",
+      "15 ml Cointreau",
+      "15 ml simple syrup (1:1)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon wheel",
+    "note": "Era of \"fern bars\"",
+    "image": ""
+  },
+  {
+    "slug": "line-cocktail",
+    "nome": "Line Cocktail",
+    "autore": "Yonekichi Maeda",
+    "luogo": "Café Line, Tokyo",
+    "anno": "1924",
+    "ingredienti": [
+      "10 ml gin",
+      "10 ml sweet vermouth",
+      "10 ml Bénédictine"
+    ],
+    "metodo": "shake with two ice cubes / fine strain",
+    "bicchiere": "cordial glass or nick & nora",
+    "ghiaccio": "",
+    "garnish": "crushed rakkyō (pickled onion) & small lemon twist",
+    "note": "Very small ~30 ml drink; from Kokuteeru",
+    "image": ""
+  },
+  {
+    "slug": "little-italy",
+    "nome": "Little Italy",
+    "autore": "Audrey Saunders",
+    "luogo": "Pegu Club, NYC",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "20 ml sweet vermouth",
+      "15 ml Cynar"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "mai-tai",
+    "nome": "Mai Tai",
+    "autore": "Victor Bergeron",
+    "luogo": "Trader Vic's, Oakland",
+    "anno": "1944",
+    "ingredienti": [
+      "30 ml aged Jamaican rum",
+      "30 ml white rum",
+      "20 ml lime juice",
+      "15 ml Cointreau",
+      "15 ml orgeat",
+      "7 ml simple syrup (1:1)"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint & cocktail cherry; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "manhattan",
+    "nome": "Manhattan",
+    "autore": "unknown",
+    "luogo": "NYC",
+    "anno": "c.1870s",
+    "ingredienti": [
+      "60 ml bourbon or rye whiskey",
+      "30 ml sweet vermouth",
+      "3 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "One of the ten Master Recipes",
+    "image": ""
+  },
+  {
+    "slug": "manhattan-(black)",
+    "nome": "Manhattan (Black)",
+    "autore": "Todd Smith",
+    "luogo": "Bourbon & Branch, San Francisco",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "30 ml Averna (or other dark amaro)",
+      "1 dash Angostura bitters",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "margarita",
+    "nome": "Margarita",
+    "autore": "unknown",
+    "luogo": "Southern California (or Mexico, NYC, London, Texas)",
+    "anno": "c.1930s",
+    "ingredienti": [
+      "60 ml blanco tequila",
+      "20 ml Cointreau",
+      "20 ml lime juice",
+      "5 ml simple syrup (1:1) [optional]"
+    ],
+    "metodo": "shake / strain or fine strain",
+    "bicchiere": "rocks glass or coupe",
+    "ghiaccio": "cube ice (if rocks)",
+    "garnish": "half salt rim; lime wheel",
+    "note": "One of the ten Master Recipes",
+    "image": ""
+  },
+  {
+    "slug": "margarita-(tommys)",
+    "nome": "Margarita (Tommy's)",
+    "autore": "Julio Bermejo",
+    "luogo": "Tommy's Mexican Restaurant, San Francisco",
+    "anno": "c.1990",
+    "ingredienti": [
+      "60 ml blanco tequila",
+      "30 ml lime juice",
+      "20 ml agave nectar"
+    ],
+    "metodo": "shake / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lime wedge",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "martinez",
+    "nome": "Martinez",
+    "autore": "O.H. Byron",
+    "luogo": "The Modern Bartender",
+    "anno": "1884",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml sweet vermouth",
+      "7 ml maraschino liqueur",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Relation to Manhattan and Martini; possible earlier origins",
+    "image": ""
+  },
+  {
+    "slug": "martini-(gin)",
+    "nome": "Martini (Gin)",
+    "autore": "unknown",
+    "luogo": "",
+    "anno": "c.1888–1906",
+    "ingredienti": [
+      "60 ml gin",
+      "30 ml dry vermouth"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist or picked olive",
+    "note": "One of the ten Master Recipes; becomes Bradford if shaken",
+    "image": ""
+  },
+  {
+    "slug": "martini-(vodka)",
+    "nome": "Martini (Vodka)",
+    "autore": "Ted Saucier",
+    "luogo": "Bottoms Up",
+    "anno": "1951",
+    "ingredienti": [
+      "90 ml vodka"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist or picked olive",
+    "note": "Note on vodka character and minimal vermouth role",
+    "image": ""
+  },
+  {
+    "slug": "martini-(dirty)",
+    "nome": "Martini (Dirty)",
+    "autore": "John E. O'Connor",
+    "luogo": "Waldorf Astoria, NYC",
+    "anno": "1901",
+    "ingredienti": [
+      "75 ml vodka",
+      "15 ml olive brine"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked olive",
+    "note": "Maximum freedom on base, brine, vermouth, and technique",
+    "image": ""
+  },
+  {
+    "slug": "mercy-mercy",
+    "nome": "Mercy Mercy",
+    "autore": "Joseph Schwartz",
+    "luogo": "Little Branch, NYC",
+    "anno": "2006",
+    "ingredienti": [
+      "60 ml gin (preferably Old Tom)",
+      "15 ml Aperol",
+      "15 ml Cocchi Americano",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "flamed orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "metropole",
+    "nome": "Metropole",
+    "autore": "George J. Kappeler",
+    "luogo": "Modern American Drinks",
+    "anno": "1895",
+    "ingredienti": [
+      "45 ml cognac",
+      "45 ml dry vermouth",
+      "2 dashes Peychaud's bitters",
+      "1 dash orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "mint-julep",
+    "nome": "Mint Julep",
+    "autore": "unknown",
+    "luogo": "Virginia",
+    "anno": "c.1807",
+    "ingredienti": [
+      "75 ml bourbon",
+      "15 ml simple syrup (1:1)",
+      "small handful mint"
+    ],
+    "metodo": "build (gentle muddle mint & syrup, then add bourbon)",
+    "bicchiere": "julep cup or rocks glass",
+    "ghiaccio": "pebble or crushed ice",
+    "garnish": "mint bouquet",
+    "note": "Extensive history from medicinal to Southern icon",
+    "image": ""
+  },
+  {
+    "slug": "monkey-gland",
+    "nome": "Monkey Gland",
+    "autore": "Harry MacElhone",
+    "luogo": "Harry's ABC of Mixing Cocktails",
+    "anno": "1922",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "7 ml grenadine",
+      "2 orange twists",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "Named after Voronoff gland therapy; note on variations",
+    "image": ""
+  },
+  {
+    "slug": "monte-carlo",
+    "nome": "Monte Carlo",
+    "autore": "David A. Embury",
+    "luogo": "The Fine Art of Mixing Drinks",
+    "anno": "1948",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "15 ml Bénédictine",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "mojito",
+    "nome": "Mojito",
+    "autore": "Juan A. Lasa",
+    "luogo": "Libro de Cocktail",
+    "anno": "1929",
+    "ingredienti": [
+      "60 ml white rum",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)",
+      "small handful mint",
+      "60 ml soda (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "mint sprig",
+    "note": "Traditional Cuban technique with muddling in glass",
+    "image": ""
+  },
+  {
+    "slug": "moscow-mule",
+    "nome": "Moscow Mule",
+    "autore": "Charles Wesley \"Wes\" Price",
+    "luogo": "Cock 'n Bull, Los Angeles",
+    "anno": "1941",
+    "ingredienti": [
+      "60 ml vodka",
+      "15 ml lime juice (or half lime squeezed and left)",
+      "120 ml ginger beer"
+    ],
+    "metodo": "build",
+    "bicchiere": "copper mug or rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lime wheel",
+    "note": "Promotional genesis; copper mug essential",
+    "image": ""
+  },
+  {
+    "slug": "naked-famous",
+    "nome": "Naked & Famous",
+    "autore": "Joaquín Simó",
+    "luogo": "Death & Co, NYC",
+    "anno": "2011",
+    "ingredienti": [
+      "20 ml mezcal",
+      "20 ml Aperol",
+      "20 ml Yellow Chartreuse",
+      "20 ml lime juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "navy-grog",
+    "nome": "Navy Grog",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Hollywood",
+    "anno": "c.1940",
+    "ingredienti": [
+      "30 ml aged Jamaican rum",
+      "30 ml Pusser's rum",
+      "30 ml white rum",
+      "20 ml lime juice",
+      "20 ml grapefruit juice",
+      "20 ml honey syrup (2:1)",
+      "20 ml soda water (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "ice cone or pebble ice",
+    "garnish": "lime wedge; mint sprig",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "negroni",
+    "nome": "Negroni",
+    "autore": "Count Camillo Negroni",
+    "luogo": "Caffè Casoni, Florence",
+    "anno": "c.1920",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml sweet vermouth",
+      "30 ml Campari"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange twist",
+    "note": "One of the ten Master Recipes",
+    "image": "/images/cocktails/negroni.jpg"
+  },
+  {
+    "slug": "negroni-(white)",
+    "nome": "Negroni (White)",
+    "autore": "Wayne Collins",
+    "luogo": "Vinexpo, Bordeaux",
+    "anno": "2001",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml Lillet Blanc",
+      "30 ml Suze"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange or grapefruit twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "new-york-sour",
+    "nome": "New York Sour",
+    "autore": "unknown",
+    "luogo": "Chicago",
+    "anno": "c.1880s",
+    "ingredienti": [
+      "60 ml bourbon or rye whiskey",
+      "20 ml lemon juice",
+      "20 ml simple syrup (1:1)",
+      "15 ml egg white or other foamer (optional)",
+      "15 ml dry red wine (float)"
+    ],
+    "metodo": "dry shake (if egg white) / shake with ice / fine strain / float",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "red wine float",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "nui-nui",
+    "nome": "Nui Nui",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Hollywood",
+    "anno": "c.1930s",
+    "ingredienti": [
+      "45 ml aged rum",
+      "15 ml Navy Strength Jamaican rum",
+      "7 ml pimento dram",
+      "15 ml lime juice",
+      "15 ml orange juice",
+      "15 ml cinnamon syrup",
+      "7 ml vanilla syrup",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "cinnamon stick & orange twist; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "old-cuban",
+    "nome": "Old Cuban",
+    "autore": "Audrey Saunders",
+    "luogo": "Bemelman's Bar, NYC",
+    "anno": "2001",
+    "ingredienti": [
+      "45 ml aged rum",
+      "20 ml lime juice",
+      "30 ml simple syrup (1:1)",
+      "2 dashes Angostura bitters",
+      "small handful mint",
+      "60 ml Champagne (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lime wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "old-fashioned",
+    "nome": "Old Fashioned",
+    "autore": "complicated (see note)",
+    "luogo": "",
+    "anno": "1974 (joke) / XIX sec. original",
+    "ingredienti": [
+      "75 ml bourbon or rye whiskey",
+      "7 ml simple syrup (1:1)",
+      "2–4 dashes Angostura bitters",
+      "1–2 dashes orange bitters (optional)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "orange twist for bourbon; lemon twist for rye",
+    "note": "One of the ten Master Recipes; extensive note on variants",
+    "image": ""
+  },
+  {
+    "slug": "old-fashioned-(oaxaca)",
+    "nome": "Old Fashioned (Oaxaca)",
+    "autore": "Phil Ward",
+    "luogo": "Death & Co, NYC",
+    "anno": "2007",
+    "ingredienti": [
+      "45 ml reposado tequila",
+      "15 ml mezcal",
+      "5 ml agave nectar",
+      "2 dashes Angostura bitters",
+      "1 dash chocolate bitters (optional)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "flamed orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "old-pal",
+    "nome": "Old Pal",
+    "autore": "Harry MacElhone",
+    "luogo": "ABC of Mixing Cocktails",
+    "anno": "1927",
+    "ingredienti": [
+      "30 ml rye whiskey",
+      "30 ml dry vermouth",
+      "30 ml Campari"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "painkiller",
+    "nome": "Painkiller",
+    "autore": "Daphne Henderson",
+    "luogo": "Soggy Dollar Bar, British Virgin Islands",
+    "anno": "c.1980",
+    "ingredienti": [
+      "60 ml Pusser's rum",
+      "60 ml pineapple juice",
+      "15 ml orange juice",
+      "20 ml cream of coconut"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "snifter or rocks glass",
+    "ghiaccio": "pebble ice",
+    "garnish": "fresh grated nutmeg; straw",
+    "note": "Pusser's trademark; bar legend; \"wet cash\"",
+    "image": ""
+  },
+  {
+    "slug": "paloma",
+    "nome": "Paloma",
+    "autore": "unknown (see note Squirt)",
+    "luogo": "Mexico / California",
+    "anno": "c.1950 / 1990s",
+    "ingredienti": [
+      "60 ml blanco tequila",
+      "120 ml grapefruit soda (preferably Squirt)",
+      "half a lime",
+      "pinch of salt"
+    ],
+    "metodo": "build (squeeze lime & drop in)",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "",
+    "note": "History from Squirt pamphlet; author prefers to Margarita",
+    "image": ""
+  },
+  {
+    "slug": "paper-plane",
+    "nome": "Paper Plane",
+    "autore": "Sam Ross",
+    "luogo": "The Violet Hour, Chicago",
+    "anno": "2008",
+    "ingredienti": [
+      "20 ml bourbon",
+      "20 ml Aperol",
+      "20 ml Amaro Nonino",
+      "20 ml lemon juice"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "pegu-club",
+    "nome": "Pegu Club",
+    "autore": "unknown",
+    "luogo": "Pegu Club, Rangoon",
+    "anno": "c.1910",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml Cointreau",
+      "20 ml lime juice",
+      "1 dash Angostura bitters",
+      "1 dash orange bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "penicillin",
+    "nome": "Penicillin",
+    "autore": "Sam Ross",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2005",
+    "ingredienti": [
+      "60 ml blended scotch whisky",
+      "30 ml lemon juice",
+      "15 ml ginger syrup (1:1)",
+      "15 ml honey syrup (2:1)"
+    ],
+    "metodo": "shake / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "mist or small float of peated Scotch; candied ginger or lemon wheel",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "pimms-cup",
+    "nome": "Pimm's Cup",
+    "autore": "James Pimm (or successor)",
+    "luogo": "London",
+    "anno": "c.1823–1912",
+    "ingredienti": [
+      "60 ml Pimm's No.1",
+      "15 ml lemon juice",
+      "7 ml simple syrup (1:1) (optional)",
+      "120 ml ginger ale"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "cucumber, strawberry, citrus, mint, etc.",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "pia-colada",
+    "nome": "Piña Colada",
+    "autore": "Ramón \"Monchito\" Marrero Pérez",
+    "luogo": "Caribe Hilton, San Juan",
+    "anno": "1954",
+    "ingredienti": [
+      "60 ml rum",
+      "45 ml pineapple juice",
+      "30 ml Coco López",
+      "7 ml lime juice (optional)"
+    ],
+    "metodo": "shake / strain (or blender with ~90 g ice)",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "pineapple wedge & frond; straw",
+    "note": "Coco López note; blender or frozen pineapple chunks",
+    "image": ""
+  },
+  {
+    "slug": "pink-lady",
+    "nome": "Pink Lady",
+    "autore": "Jacques Straub",
+    "luogo": "Manual of Mixed Drinks",
+    "anno": "1913",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml applejack",
+      "20 ml lime juice",
+      "20 ml grenadine",
+      "15 ml egg white"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "Note on Ojen and Peychaud's versions",
+    "image": ""
+  },
+  {
+    "slug": "pisco-sour",
+    "nome": "Pisco Sour",
+    "autore": "Victor Morris",
+    "luogo": "Morris' Bar, Lima",
+    "anno": "c.1920",
+    "ingredienti": [
+      "60 ml pisco",
+      "10 ml lime juice",
+      "10 ml lemon juice",
+      "20 ml simple syrup (1:1)",
+      "15 ml egg white"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "5 drops Angostura bitters on foam",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "poets-dream",
+    "nome": "Poet's Dream",
+    "autore": "Albert Stevens Crockett",
+    "luogo": "Old Waldorf Bar Days",
+    "anno": "1931",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml dry vermouth",
+      "30 ml Bénédictine"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "preakness",
+    "nome": "Preakness",
+    "autore": "George",
+    "luogo": "Emerson Hotel, Baltimore",
+    "anno": "1936",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "20 ml sweet vermouth",
+      "7 ml Bénédictine",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "quaker",
+    "nome": "Quaker",
+    "autore": "Harry MacElhone",
+    "luogo": "ABC of Mixing Cocktails",
+    "anno": "1923",
+    "ingredienti": [
+      "30 ml aged rum",
+      "30 ml cognac",
+      "20 ml lemon juice",
+      "20 ml raspberry syrup"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "queens-park-swizzle",
+    "nome": "Queen's Park Swizzle",
+    "autore": "unknown",
+    "luogo": "Queen's Park Hotel, Trinidad",
+    "anno": "c.1933–1938",
+    "ingredienti": [
+      "60 ml aged rum",
+      "30 ml lime juice",
+      "30 ml demerara syrup (1:1)",
+      "small handful mint leaves",
+      "8 dashes Angostura bitters (on top)"
+    ],
+    "metodo": "build / muddle mint / swizzle",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint sprig; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "ramos-gin-fizz",
+    "nome": "Ramos Gin Fizz",
+    "autore": "Henry Charles Ramos",
+    "luogo": "Imperial Cabinet Saloon, New Orleans",
+    "anno": "c.1892–1894",
+    "ingredienti": [
+      "60 ml Old Tom gin",
+      "30 ml heavy cream",
+      "30 ml simple syrup (1:1)",
+      "10 ml lemon juice",
+      "10 ml lime juice",
+      "15 ml egg white",
+      "3 drops orange flower water",
+      "60 ml soda water (to sink",
+      "do not shake)"
+    ],
+    "metodo": "shake (long, or simplified method) / sink soda",
+    "bicchiere": "straight 8 oz glass",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Famous New Orleans recipe; famous shaker boys; blender method",
+    "image": ""
+  },
+  {
+    "slug": "ranch-water",
+    "nome": "Ranch Water",
+    "autore": "Kevin Williamson",
+    "luogo": "Ranch 616, Austin",
+    "anno": "1998",
+    "ingredienti": [
+      "60 ml blanco tequila",
+      "120 ml Topo Chico",
+      "15 ml lime juice",
+      "7 ml simple syrup (1:1) (optional)"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "half salt rim; lime wedge",
+    "note": "Attribution disputed by Texans",
+    "image": ""
+  },
+  {
+    "slug": "rattlesnake",
+    "nome": "Rattlesnake",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "20 ml lemon juice",
+      "20 ml simple syrup (1:1)",
+      "15 ml egg white",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "Angostura bitters pattern on foam",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "red-hook",
+    "nome": "Red Hook",
+    "autore": "Vincenzo Errico",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2003",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "20 ml Punt e Mes",
+      "7 ml maraschino liqueur"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "revolver",
+    "nome": "Revolver",
+    "autore": "Jon Santer",
+    "luogo": "Bruno's, San Francisco",
+    "anno": "2004",
+    "ingredienti": [
+      "60 ml bourbon",
+      "15 ml coffee liqueur",
+      "2 dashes orange bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "flamed orange coin",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "rickey",
+    "nome": "Rickey",
+    "autore": "George A. Williamson",
+    "luogo": "Shoomaker's Bar",
+    "anno": "1880s",
+    "ingredienti": [
+      "60 ml gin or bourbon",
+      "2–4 lime wedges (squeezed and dropped in)",
+      "120 ml soda water"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "rob-roy",
+    "nome": "Rob Roy",
+    "autore": "Henry August Orphal",
+    "luogo": "Duke's House, Hoboken",
+    "anno": "c.1895",
+    "ingredienti": [
+      "60 ml blended scotch whisky",
+      "30 ml sweet vermouth",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry or citrus twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "rome-with-a-view",
+    "nome": "Rome With a View",
+    "autore": "Michael McIlroy",
+    "luogo": "Milk & Honey, NYC",
+    "anno": "2008",
+    "ingredienti": [
+      "30 ml Campari",
+      "30 ml dry vermouth",
+      "30 ml lime juice",
+      "20 ml simple syrup (1:1)",
+      "30 ml club soda (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / strain / top",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "orange slice",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "saratoga-brace-up",
+    "nome": "Saratoga Brace Up",
+    "autore": "Jerry Thomas",
+    "luogo": "The Bar-Tender's Guide",
+    "anno": "1887",
+    "ingredienti": [
+      "60 ml cognac",
+      "15 ml lemon juice",
+      "15 ml simple syrup (1:1)",
+      "1 whole egg",
+      "2 dashes Angostura bitters",
+      "2 dashes absinthe",
+      "30 ml club soda (in glass, not shaken)"
+    ],
+    "metodo": "dry shake / shake with ice / fine strain over soda",
+    "bicchiere": "snifter or collins",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "satans-whiskers",
+    "nome": "Satan's Whiskers",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "20 ml gin",
+      "20 ml sweet vermouth",
+      "20 ml dry vermouth",
+      "20 ml orange juice",
+      "10 ml Grand Marnier (or Cointreau)",
+      "2 dashes orange bitters",
+      "7 ml lemon juice (optional)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "saturn",
+    "nome": "Saturn",
+    "autore": "Joseph Galsini",
+    "luogo": "Kona Kai, Huntington Beach",
+    "anno": "1967",
+    "ingredienti": [
+      "45 ml gin",
+      "15 ml lemon juice",
+      "15 ml orgeat",
+      "7 ml passion fruit purée",
+      "7 ml falernum"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "pebble ice",
+    "garnish": "picked cocktail cherry wrapped in long lemon twist (Saturn ring); straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "sazerac",
+    "nome": "Sazerac",
+    "autore": "Billy Wilkinson",
+    "luogo": "Sazerac House, New Orleans",
+    "anno": "c.1900",
+    "ingredienti": [
+      "75 ml rye whiskey",
+      "7 ml simple syrup (1:1)",
+      "5–7 dashes Peychaud's bitters",
+      "3 dashes absinthe (glass rinse)"
+    ],
+    "metodo": "stir / strain in absinthe-rinsed glass",
+    "bicchiere": "rocks glass (down, no ice)",
+    "ghiaccio": "",
+    "garnish": "lemon twist (expressed and discarded)",
+    "note": "Disputed with Peychaud; research by Wondrich",
+    "image": ""
+  },
+  {
+    "slug": "scofflaw",
+    "nome": "Scofflaw",
+    "autore": "unknown",
+    "luogo": "Maxim's Bar, Paris",
+    "anno": "1924",
+    "ingredienti": [
+      "45 ml rye whiskey",
+      "30 ml dry vermouth",
+      "15 ml lemon juice",
+      "15 ml grenadine",
+      "1 dash orange bitters"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "orange twist (expressed and discarded)",
+    "note": "Chicago Tribune \"scofflaw\" competition history",
+    "image": ""
+  },
+  {
+    "slug": "sherry-cobbler",
+    "nome": "Sherry Cobbler",
+    "autore": "unknown",
+    "luogo": "America",
+    "anno": "c.1830s",
+    "ingredienti": [
+      "120 ml amontillado sherry",
+      "30 ml simple syrup (1:1)",
+      "2 orange slices",
+      "1 lemon slice"
+    ],
+    "metodo": "muddle fruit / shake / fine strain",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "orange slice & berries; straw",
+    "note": "Central to shaker, ice, straw history",
+    "image": ""
+  },
+  {
+    "slug": "siboney",
+    "nome": "Siboney",
+    "autore": "Victor Bergeron",
+    "luogo": "Trader Vic's Rum Cookery & Drinkery",
+    "anno": "1974",
+    "ingredienti": [
+      "30 ml aged Jamaican rum",
+      "15 ml lemon juice",
+      "15 ml pineapple juice",
+      "7 ml simple syrup (1:1)",
+      "7 ml passion fruit purée"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "sidecar",
+    "nome": "Sidecar",
+    "autore": "John",
+    "luogo": "Henry's, Paris",
+    "anno": "c.1918",
+    "ingredienti": [
+      "60 ml cognac",
+      "20 ml Cointreau",
+      "20 ml lemon juice",
+      "5 ml simple syrup (1:1) (optional)"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Paris/London dispute (Malachi McGarry, Buck's Club); sugar rim",
+    "image": ""
+  },
+  {
+    "slug": "southside",
+    "nome": "Southside",
+    "autore": "Snedecor's Tavern / '21' Club",
+    "luogo": "Long Island / NYC",
+    "anno": "c.1890s / 1929",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lime juice",
+      "20 ml simple syrup (1:1)",
+      "small handful mint leaves",
+      "30 ml club soda (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "mint sprig",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "three-dots-and-a-dash",
+    "nome": "Three Dots and a Dash",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Hollywood",
+    "anno": "c.1945",
+    "ingredienti": [
+      "30 ml rhum agricole",
+      "30 ml aged rum",
+      "15 ml Cointreau",
+      "15 ml falernum",
+      "7 ml pimento dram",
+      "30 ml lime juice",
+      "15 ml honey syrup (2:1)",
+      "3 dashes Angostura bitters"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "heavy tiki garnish",
+    "note": "Named after Morse code for \"V\" (victory)",
+    "image": ""
+  },
+  {
+    "slug": "tipperary",
+    "nome": "Tipperary",
+    "autore": "Hugo R. Ensslin",
+    "luogo": "Recipes for Mixed Drinks",
+    "anno": "1916",
+    "ingredienti": [
+      "45 ml Irish whiskey",
+      "30 ml sweet vermouth",
+      "15 ml Green Chartreuse"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "ti-punch",
+    "nome": "Ti' Punch",
+    "autore": "unknown",
+    "luogo": "Guadeloupe / Martinique",
+    "anno": "c.1840s",
+    "ingredienti": [
+      "60 ml rhum agricole blanc",
+      "5 ml cane syrup",
+      "1 lime section (equal peel & flesh)"
+    ],
+    "metodo": "build (muddle lime and syrup, add rhum, gentle stir)",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "No ice traditionally; cultural note",
+    "image": ""
+  },
+  {
+    "slug": "tom-collins",
+    "nome": "Tom Collins",
+    "autore": "John Collin",
+    "luogo": "Limmer's Old House, London",
+    "anno": "c.1830s",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml lemon juice",
+      "30 ml simple syrup (1:1)",
+      "60 ml club soda"
+    ],
+    "metodo": "build",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon wedge; sunken cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "toronto",
+    "nome": "Toronto",
+    "autore": "Robert Vermeire",
+    "luogo": "Cocktails: How to Mix Them",
+    "anno": "1922",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "7 ml Fernet-Branca",
+      "7 ml simple syrup (1:1)",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "tortuga",
+    "nome": "Tortuga",
+    "autore": "Victor Bergeron",
+    "luogo": "Trader Vic's Book of Food & Drink",
+    "anno": "1946",
+    "ingredienti": [
+      "30 ml 151-proof demerara rum",
+      "30 ml navy strength rum",
+      "30 ml sweet vermouth",
+      "15 ml Cointreau",
+      "15 ml white crème de cacao",
+      "15 ml lime juice",
+      "15 ml lemon juice",
+      "15 ml orange juice",
+      "7 ml grenadine"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "lime wedge; straw",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "trident",
+    "nome": "Trident",
+    "autore": "Robert Hess",
+    "luogo": "Zig Zag Café, Seattle",
+    "anno": "2002",
+    "ingredienti": [
+      "30 ml aquavit",
+      "30 ml Cynar",
+      "30 ml dry sherry",
+      "2 dashes peach bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "trinidad-sour",
+    "nome": "Trinidad Sour",
+    "autore": "Giuseppe González",
+    "luogo": "Clover Club, NYC",
+    "anno": "2009",
+    "ingredienti": [
+      "30 ml Angostura bitters",
+      "30 ml orgeat",
+      "20 ml lime juice",
+      "15 ml rye whiskey"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "",
+    "note": "Note on bitters as base",
+    "image": ""
+  },
+  {
+    "slug": "trinity",
+    "nome": "Trinity",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "30 ml gin",
+      "30 ml sweet vermouth",
+      "30 ml dry vermouth"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "turf-club",
+    "nome": "Turf Club",
+    "autore": "Harry Johnson",
+    "luogo": "Bartenders' Manual",
+    "anno": "1900",
+    "ingredienti": [
+      "45 ml gin (preferably Plymouth)",
+      "45 ml dry vermouth",
+      "5 ml maraschino liqueur",
+      "2 dashes orange bitters",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Historic link between Martinez and Dry Martini",
+    "image": ""
+  },
+  {
+    "slug": "tuxedo",
+    "nome": "Tuxedo",
+    "autore": "Harry Johnson",
+    "luogo": "Bartenders' Manual",
+    "anno": "1900",
+    "ingredienti": [
+      "45 ml Old Tom gin",
+      "45 ml dry vermouth",
+      "1 dash maraschino liqueur",
+      "2 dashes orange bitters",
+      "2 dashes absinthe (or glass rinse)"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist & sunken cocktail cherry",
+    "note": "Many variants; Tuxedo Club connection",
+    "image": ""
+  },
+  {
+    "slug": "vermouth-panache",
+    "nome": "Vermouth Panache",
+    "autore": "Ernest Hemingway",
+    "luogo": "Pilar (boat), Havana",
+    "anno": "1934",
+    "ingredienti": [
+      "60 ml dry vermouth",
+      "30 ml sweet vermouth",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon twist",
+    "note": "Hemingway Esquire article; low-ABV",
+    "image": ""
+  },
+  {
+    "slug": "vesper",
+    "nome": "Vesper",
+    "autore": "Ivar Brice (attributed)",
+    "luogo": "Casino Royale",
+    "anno": "1953",
+    "ingredienti": [
+      "45 ml gin",
+      "30 ml vodka",
+      "15 ml Cocchi Americano"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "Kina Lillet extinct; substitutes (Cocchi, Lillet Blanc)",
+    "image": ""
+  },
+  {
+    "slug": "vieux-carre",
+    "nome": "Vieux Carré",
+    "autore": "Walter Bergeron",
+    "luogo": "Hotel Monteleone Carousel Bar, New Orleans",
+    "anno": "1930s",
+    "ingredienti": [
+      "30 ml rye",
+      "30 ml cognac",
+      "20 ml sweet vermouth",
+      "7 ml Bénédictine",
+      "3 dashes Peychaud's bitters",
+      "2 dashes Angostura bitters"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "ward-eight",
+    "nome": "Ward Eight",
+    "autore": "unknown",
+    "luogo": "Lock-Ober, Boston",
+    "anno": "c.1898",
+    "ingredienti": [
+      "60 ml rye whiskey",
+      "15 ml lemon juice",
+      "15 ml orange juice",
+      "7 ml grenadine"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "orange twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "water-lily",
+    "nome": "Water Lily",
+    "autore": "Richard Boccato",
+    "luogo": "Little Branch, NYC",
+    "anno": "2007",
+    "ingredienti": [
+      "20 ml gin",
+      "20 ml lemon juice",
+      "20 ml Cointreau",
+      "20 ml crème de violette"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "whiskey-sour",
+    "nome": "Whiskey Sour",
+    "autore": "Jerry Thomas (attributed)",
+    "luogo": "",
+    "anno": "1862 (print) / 1826 (first mention)",
+    "ingredienti": [
+      "60 ml bourbon or rye whiskey",
+      "20 ml lemon juice",
+      "20 ml simple syrup (1:1)",
+      "15 ml egg white (optional)"
+    ],
+    "metodo": "dry shake (if egg) / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist (expressed and discarded) & picked cocktail cherry",
+    "note": "Note on maritime origins, egg optional",
+    "image": ""
+  },
+  {
+    "slug": "white-lady",
+    "nome": "White Lady",
+    "autore": "Harry Craddock",
+    "luogo": "The American Bar, London",
+    "anno": "c.1929",
+    "ingredienti": [
+      "60 ml gin",
+      "20 ml Cointreau",
+      "20 ml lemon juice",
+      "5 ml simple syrup (1:1)",
+      "15 ml egg white (optional)"
+    ],
+    "metodo": "dry shake (if egg) / shake with ice / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist (expressed and discarded)",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "white-linen",
+    "nome": "White Linen",
+    "autore": "Rene Dominguez",
+    "luogo": "Ella Dining Room, Sacramento",
+    "anno": "2008",
+    "ingredienti": [
+      "45 ml gin",
+      "30 ml lemon juice",
+      "15 ml elderflower liqueur",
+      "15 ml simple syrup (1:1)",
+      "3 cucumber slices",
+      "60 ml soda water (to top",
+      "do not shake)"
+    ],
+    "metodo": "shake / fine strain / top",
+    "bicchiere": "collins",
+    "ghiaccio": "cube ice",
+    "garnish": "cucumber slice(s)",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "white-russian",
+    "nome": "White Russian",
+    "autore": "unknown (Coffee Southern Liqueur ad)",
+    "luogo": "Oakland Tribune",
+    "anno": "1965",
+    "ingredienti": [
+      "30 ml vodka",
+      "30 ml coffee liqueur",
+      "30 ml heavy cream (floated)"
+    ],
+    "metodo": "build",
+    "bicchiere": "rocks glass",
+    "ghiaccio": "cube ice",
+    "garnish": "",
+    "note": "Creamy riff on Black Russian",
+    "image": ""
+  },
+  {
+    "slug": "widows-kiss",
+    "nome": "Widow's Kiss",
+    "autore": "George J. Kappeler",
+    "luogo": "Modern American Drinks",
+    "anno": "1895",
+    "ingredienti": [
+      "60 ml apple brandy",
+      "7 ml Yellow Chartreuse",
+      "7 ml Bénédictine"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "picked cocktail cherry",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "xyz",
+    "nome": "X.Y.Z.",
+    "autore": "Harry Craddock",
+    "luogo": "The Savoy Cocktail Book",
+    "anno": "1930",
+    "ingredienti": [
+      "60 ml white or aged rum",
+      "20 ml lemon juice",
+      "20 ml Cointreau"
+    ],
+    "metodo": "shake / fine strain",
+    "bicchiere": "coupe",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "zephyr",
+    "nome": "Zephyr",
+    "autore": "Benjamin Schwartz",
+    "luogo": "Little Branch, NYC",
+    "anno": "2010",
+    "ingredienti": [
+      "60 ml gin",
+      "15 ml Cocchi Americano",
+      "15 ml Green Chartreuse"
+    ],
+    "metodo": "stir / strain",
+    "bicchiere": "nick & nora",
+    "ghiaccio": "",
+    "garnish": "lemon twist",
+    "note": "",
+    "image": ""
+  },
+  {
+    "slug": "zombie",
+    "nome": "Zombie",
+    "autore": "Donn Beach",
+    "luogo": "Don the Beachcomber, Hollywood",
+    "anno": "1934",
+    "ingredienti": [
+      "45 ml Pusser's rum",
+      "45 ml aged rum",
+      "30 ml Jamaican rum",
+      "20 ml lime juice",
+      "7 ml grapefruit juice",
+      "15 ml falernum",
+      "7 ml cinnamon syrup",
+      "5 ml grenadine",
+      "2 dashes absinthe",
+      "1 dash Angostura bitters"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint sprig; straw",
+    "note": "First great tiki; secret recipe until 2006",
+    "image": ""
+  },
+  {
+    "slug": "zombie-(simplified)",
+    "nome": "Zombie (Simplified)",
+    "autore": "Branden von Fugate",
+    "luogo": "San Diego (home)",
+    "anno": "2024",
+    "ingredienti": [
+      "60 ml aged Jamaican rum",
+      "20 ml lime juice",
+      "15 ml grapefruit juice",
+      "15 ml cinnamon syrup",
+      "2 dashes absinthe"
+    ],
+    "metodo": "whip shake / dump",
+    "bicchiere": "collins",
+    "ghiaccio": "pebble ice",
+    "garnish": "mint sprig",
+    "note": "Simplified Zombie version",
+    "image": ""
+  }
+]
