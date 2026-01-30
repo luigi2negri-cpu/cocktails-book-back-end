@@ -249,17 +249,22 @@ app.get('/api/cocktails/available', (req, res) => {
     GROUP BY c.id
     HAVING COUNT(DISTINCT ci.ingredient_id) = COUNT(DISTINCT ii.ingredient_id)
   `;
-  db.all(sql, [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
 
+  db.all(sql, [], (err, rows) => {
+    if (err) {
+      return res.status(500).json({ error: err.message });
+    }
+
+    // IMPORTANTE: mai 404 qui, sempre un array
     const cocktails = (rows || []).map(row => ({
       ...row,
-      ingredienti: JSON.parse(row.ingredienti || '[]')
+      ingredienti: JSON.parse(row.ingredienti || '[]'),
     }));
 
     res.json(cocktails);
   });
 });
+
 
 // =========================
 // MIGRAZIONE INGREDIENTI
