@@ -6,12 +6,15 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// =========================
+// COCKTAILS
+// =========================
+
 // Get all cocktails
 app.get('/api/cocktails', (req, res) => {
   db.all('SELECT * FROM cocktails', (err, rows) => {
     if (err) res.status(500).json({ error: err.message });
     else {
-      // Parse ingredienti da JSON string ad array
       const cocktails = rows.map(row => ({
         ...row,
         ingredienti: JSON.parse(row.ingredienti)
@@ -48,11 +51,11 @@ app.get('/api/cocktails/slug/:slug', (req, res) => {
 // Add cocktail
 app.post('/api/cocktails', (req, res) => {
   const { slug, nome, autore, luogo, anno, ingredienti, metodo, bicchiere, ghiaccio, garnish, note, image } = req.body;
-  
+
   db.run(
     'INSERT INTO cocktails (slug, nome, autore, luogo, anno, ingredienti, metodo, bicchiere, ghiaccio, garnish, note, image) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
     [slug, nome, autore, luogo, anno, JSON.stringify(ingredienti), metodo, bicchiere, ghiaccio, garnish, note, image],
-    function(err) {
+    function (err) {
       if (err) res.status(400).json({ error: err.message });
       else res.status(201).json({ id: this.lastID, slug, nome, autore, luogo, anno, ingredienti, metodo, bicchiere, ghiaccio, garnish, note, image });
     }
@@ -62,11 +65,11 @@ app.post('/api/cocktails', (req, res) => {
 // Update cocktail
 app.put('/api/cocktails/:id', (req, res) => {
   const { slug, nome, autore, luogo, anno, ingredienti, metodo, bicchiere, ghiaccio, garnish, note, image } = req.body;
-  
+
   db.run(
     'UPDATE cocktails SET slug = ?, nome = ?, autore = ?, luogo = ?, anno = ?, ingredienti = ?, metodo = ?, bicchiere = ?, ghiaccio = ?, garnish = ?, note = ?, image = ? WHERE id = ?',
     [slug, nome, autore, luogo, anno, JSON.stringify(ingredienti), metodo, bicchiere, ghiaccio, garnish, note, image, req.params.id],
-    function(err) {
+    function (err) {
       if (err) res.status(400).json({ error: err.message });
       else res.json({ id: req.params.id, slug, nome, autore, luogo, anno, ingredienti, metodo, bicchiere, ghiaccio, garnish, note, image });
     }
@@ -75,131 +78,9 @@ app.put('/api/cocktails/:id', (req, res) => {
 
 // Delete cocktail
 app.delete('/api/cocktails/:id', (req, res) => {
-  db.run('DELETE FROM cocktails WHERE id = ?', [req.params.id], function(err) {
+  db.run('DELETE FROM cocktails WHERE id = ?', [req.params.id], function (err) {
     if (err) res.status(500).json({ error: err.message });
     else res.json({ ok: true, deleted: this.changes });
-  });
-});
-// =========================
-// MIGRAZIONE ingredienti da cocktails.ingredienti (JSON)
-// =========================
-
-app.post('/api/dev/migrate-ingredients', (req, res) => {
-  // 1) prendo tutti i cocktail
-  db.all('SELECT id, ingredienti FROM cocktails', [], (err, rows) => {
-    if (err) return res.status(500).json({ error: err.message });
-
-    const cocktails = rows || [];
-    let processed = 0;
-    let errors = [];
-
-    cocktails.forEach((row) => {
-      let parsed;
-      try {
-        parsed = JSON.parse(row.ingredienti || '[]');
-      } catch (e) {
-        errors.push({ cocktail_id: row.id, error: 'JSON parse', detail: e.message });
-        processed++;
-        if (processed === cocktails.length) {
-          return res.json({ done: true, errors });
-        }
-        return;
-      }
-
-      if (!Array.isArray(parsed)) {
-        processed++;
-        if (processed === cocktails.length) {
-          return res.json({ done: true, errors });
-        }
-        return;
-      }
-
-      let orderIndex = 1;
-
-      const processNext = (index) => {
-        if (index >= parsed.length) {
-          processed++;
-          if (processed === cocktails.length) {
-            return res.json({ done: true, errors });
-          }
-          return;
-        }
-
-        const ing = parsed[index];
-
-        // supporta sia stringhe sia oggetti { nome, quantita }
-        let nomeIng;
-        let amount;
-        let unit;
-
-        if (typeof ing === 'string') {
-          nomeIng = ing;
-          amount = null;
-          unit = null;
-        } else {
-          nomeIng = ing.nome || ing.name || '';
-          amount = ing.quantita || ing.quantity || null;
-          unit = ing.unita || ing.unit || null;
-        }
-
-        if (!nomeIng) {
-          errors.push({ cocktail_id: row.id, error: 'missing name', index });
-          return processNext(index + 1);
-        }
-
-        // normalizza nome per tabella ingredients (potresti volerlo pulire meglio)
-        const baseName = nomeIng.trim();
-
-        // 1) trova o crea ingredient
-        db.get('SELECT id FROM ingredients WHERE name = ?', [baseName], (errSel, found) => {
-          if (errSel) {
-            errors.push({ cocktail_id: row.id, error: 'select ingredient', detail: errSel.message });
-            return processNext(index + 1);
-          }
-
-          const ensureCocktailIngredient = (ingredientId) => {
-            const sqlIns = `
-              INSERT OR IGNORE INTO cocktail_ingredients
-              (cocktail_id, ingredient_id, amount, unit, order_index)
-              VALUES (?, ?, ?, ?, ?)
-            `;
-            db.run(
-              sqlIns,
-              [row.id, ingredientId, amount, unit, orderIndex],
-              (errIns) => {
-                if (errIns) {
-                  errors.push({ cocktail_id: row.id, error: 'insert cocktail_ingredient', detail: errIns.message });
-                }
-                orderIndex++;
-                processNext(index + 1);
-              }
-            );
-          };
-
-          if (found) {
-            ensureCocktailIngredient(found.id);
-          } else {
-            const sqlNewIng = `
-              INSERT INTO ingredients (name)
-              VALUES (?)
-            `;
-            db.run(sqlNewIng, [baseName], function (errNew) {
-              if (errNew) {
-                errors.push({ cocktail_id: row.id, error: 'insert ingredient', detail: errNew.message });
-                return processNext(index + 1);
-              }
-              ensureCocktailIngredient(this.lastID);
-            });
-          }
-        });
-      };
-
-      processNext(0);
-    });
-
-    if (cocktails.length === 0) {
-      return res.json({ done: true, errors: [] });
-    }
   });
 });
 
@@ -353,7 +234,10 @@ app.delete('/api/inventory/:id', (req, res) => {
   });
 });
 
-// Cocktail completamente fattibili con l'inventario attuale
+// =========================
+// COCKTAILS AVAILABLE (fattibili ora)
+// =========================
+
 app.get('/api/cocktails/available', (req, res) => {
   const sql = `
     SELECT c.*
@@ -369,6 +253,125 @@ app.get('/api/cocktails/available', (req, res) => {
   db.all(sql, [], (err, rows) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(rows);
+  });
+});
+
+// =========================
+// MIGRAZIONE INGREDIENTI
+// =========================
+
+app.post('/api/dev/migrate-ingredients', (req, res) => {
+  db.all('SELECT id, ingredienti FROM cocktails', [], (err, rows) => {
+    if (err) return res.status(500).json({ error: err.message });
+
+    const cocktails = rows || [];
+    let processed = 0;
+    let errors = [];
+
+    if (cocktails.length === 0) {
+      return res.json({ done: true, errors: [] });
+    }
+
+    cocktails.forEach((row) => {
+      let parsed;
+      try {
+        parsed = JSON.parse(row.ingredienti || '[]');
+      } catch (e) {
+        errors.push({ cocktail_id: row.id, error: 'JSON parse', detail: e.message });
+        processed++;
+        if (processed === cocktails.length) {
+          return res.json({ done: true, errors });
+        }
+        return;
+      }
+
+      if (!Array.isArray(parsed)) {
+        processed++;
+        if (processed === cocktails.length) {
+          return res.json({ done: true, errors });
+        }
+        return;
+      }
+
+      let orderIndex = 1;
+
+      const processNext = (index) => {
+        if (index >= parsed.length) {
+          processed++;
+          if (processed === cocktails.length) {
+            return res.json({ done: true, errors });
+          }
+          return;
+        }
+
+        const ing = parsed[index];
+
+        let nomeIng;
+        let amount;
+        let unit;
+
+        if (typeof ing === 'string') {
+          nomeIng = ing;
+          amount = null;
+          unit = null;
+        } else {
+          nomeIng = ing.nome || ing.name || '';
+          amount = ing.quantita || ing.quantity || null;
+          unit = ing.unita || ing.unit || null;
+        }
+
+        if (!nomeIng) {
+          errors.push({ cocktail_id: row.id, error: 'missing name', index });
+          return processNext(index + 1);
+        }
+
+        const baseName = nomeIng.trim();
+
+        db.get('SELECT id FROM ingredients WHERE name = ?', [baseName], (errSel, found) => {
+          if (errSel) {
+            errors.push({ cocktail_id: row.id, error: 'select ingredient', detail: errSel.message });
+            return processNext(index + 1);
+          }
+
+          const ensureCocktailIngredient = (ingredientId) => {
+            const sqlIns = `
+              INSERT OR IGNORE INTO cocktail_ingredients
+              (cocktail_id, ingredient_id, amount, unit, order_index)
+              VALUES (?, ?, ?, ?, ?)
+            `;
+            db.run(
+              sqlIns,
+              [row.id, ingredientId, amount, unit, orderIndex],
+              (errIns) => {
+                if (errIns) {
+                  errors.push({ cocktail_id: row.id, error: 'insert cocktail_ingredient', detail: errIns.message });
+                }
+                orderIndex++;
+                processNext(index + 1);
+              }
+            );
+          };
+
+          if (found) {
+            ensureCocktailIngredient(found.id);
+          } else {
+            const sqlNewIng = `
+              INSERT INTO ingredients (name)
+              VALUES (?)
+            `;
+            db.run(sqlNewIng, [baseName], function (errNew) {
+              if (errNew) {
+                errors.push({ cocktail_id: row.id, error: 'insert ingredient', detail: errNew.message });
+                return processNext(index + 1);
+              }
+              ensureCocktailIngredient(this.lastID);
+            });
+          }
+        });
+      };
+
+      processNext(0);
+    });
   });
 });
 
