@@ -88,13 +88,12 @@ app.delete('/api/cocktails/:id', (req, res) => {
 // INVENTARIO BOTTIGLIE
 // =========================
 
-// Get all inventory items
+// Get all inventory items (senza filtro is_active, per debug)
 app.get('/api/inventory', (req, res) => {
   const sql = `
     SELECT ii.*, ing.name AS ingredient_name
     FROM inventory_items ii
     JOIN ingredients ing ON ing.id = ii.ingredient_id
-    WHERE ii.is_active = 1
     ORDER BY ing.name, ii.brand
   `;
   db.all(sql, [], (err, rows) => {
@@ -102,6 +101,7 @@ app.get('/api/inventory', (req, res) => {
     res.json(rows);
   });
 });
+
 
 // Get single inventory item
 app.get('/api/inventory/:id', (req, res) => {
