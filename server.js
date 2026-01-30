@@ -6,9 +6,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.get('/__ping', (req, res) => {
-  res.json({ ok: true, version: 'v-inventory-1' });
-});
 // =========================
 // COCKTAILS
 // =========================
