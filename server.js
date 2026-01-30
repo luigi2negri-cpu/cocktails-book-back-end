@@ -233,7 +233,6 @@ app.delete('/api/inventory/:id', (req, res) => {
     res.json({ success: true });
   });
 });
-
 // =========================
 // COCKTAILS AVAILABLE (fattibili ora)
 // =========================
@@ -252,7 +251,13 @@ app.get('/api/cocktails/available', (req, res) => {
   `;
   db.all(sql, [], (err, rows) => {
     if (err) return res.status(500).json({ error: err.message });
-    res.json(rows);
+
+    const cocktails = (rows || []).map(row => ({
+      ...row,
+      ingredienti: JSON.parse(row.ingredienti || '[]')
+    }));
+
+    res.json(cocktails);
   });
 });
 
